@@ -118,5 +118,9 @@
   }
   body {
     @apply bg-background text-foreground;
+    background-image: url('/card-background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
   }
 }
